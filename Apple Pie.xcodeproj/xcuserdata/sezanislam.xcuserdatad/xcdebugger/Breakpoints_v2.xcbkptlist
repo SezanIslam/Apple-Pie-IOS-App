@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "70449241-E247-4C86-A126-CAD6B50DC589"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51224F0E-96BD-43BD-B49F-D929C20DE583"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Pie/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "51224F0E-96BD-43BD-B49F-D929C20DE583 - 29767fcbcff23738"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.scoreLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sezanislam/Desktop/ssi25_490_applepie/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "51224F0E-96BD-43BD-B49F-D929C20DE583 - f8b1c5e1016b8724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.scoreLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sezanislam/Desktop/ssi25_490_applepie/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "51224F0E-96BD-43BD-B49F-D929C20DE583 - 896bbbd019ca9b37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.scoreLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sezanislam/Desktop/ssi25_490_applepie/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "51224F0E-96BD-43BD-B49F-D929C20DE583 - 41c66e283975c7d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.scoreLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sezanislam/Desktop/ssi25_490_applepie/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "51224F0E-96BD-43BD-B49F-D929C20DE583 - 1f2d1b51991f3a47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Apple_Pie.ViewController"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sezanislam/Desktop/ssi25_490_applepie/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "283">
+               </Location>
+               <Location
+                  uuid = "51224F0E-96BD-43BD-B49F-D929C20DE583 - 1198c6f3e8a9a583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Pie.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Apple_Pie.ViewController&gt;"
+                  moduleName = "Apple Pie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sezanislam/Desktop/ssi25_490_applepie/Apple%20Pie/Apple%20Pie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
